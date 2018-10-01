@@ -21,7 +21,7 @@ public class HelthyPets {
         input = input.toLowerCase();
         
         petMap.get(input).food();
-        //Här använda polymorfism så att .food() anropar olika metoder beroende 
+        //Här används polymorfism så att .food() anropar olika metoder beroende 
         //på vilket typ av djur det är.
     }
 
