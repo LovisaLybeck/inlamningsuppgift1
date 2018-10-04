@@ -1,9 +1,5 @@
 package helthypets;
 
-/**
- *
- * @author Lovisa
- */
 abstract class Pet implements Guest{
     
     //Här använder jag inkapsling så att det inte går att ändra på name 

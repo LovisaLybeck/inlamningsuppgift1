@@ -2,10 +2,6 @@ package helthypets;
 
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author Lovisa
- */
 public class Cat extends Pet{
     
     public Cat(String name, double weight){

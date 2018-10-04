@@ -2,10 +2,6 @@ package helthypets;
 
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author Lovisa
- */
 public class Snake extends Pet implements Guest{
     
     public Snake(String name, double weight){
